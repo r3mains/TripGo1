@@ -1,5 +1,5 @@
 // Enhanced Service Worker for PWA and background location tracking
-const CACHE_NAME = "tripgo-v3.0";
+const CACHE_NAME = "tripgo-v3.1";
 const API_CACHE = "tripgo-api-v1";
 const urlsToCache = [
   "/",
